@@ -1,0 +1,141 @@
+{
+  "buildings": {
+    "headquarters": {
+      "name": "Quartier Général",
+      "resource": "gold",
+      "levels": [
+        {"hp": 1000, "cost_gold": 0,     "cost_elixir": 0},
+        {"hp": 1500, "cost_gold": 500,   "cost_elixir": 200},
+        {"hp": 2200, "cost_gold": 1200,  "cost_elixir": 500},
+        {"hp": 3200, "cost_gold": 2500,  "cost_elixir": 1000},
+        {"hp": 5000, "cost_gold": 5000,  "cost_elixir": 2000}
+      ]
+    },
+    "gold_mine": {
+      "name": "Mine d'or",
+      "resource": "gold",
+      "base_production": 50,
+      "levels": [
+        {"hp": 400, "production_mult": 1, "cost_gold": 0,    "cost_elixir": 0},
+        {"hp": 500, "production_mult": 2, "cost_gold": 300,  "cost_elixir": 0},
+        {"hp": 600, "production_mult": 3, "cost_gold": 700,  "cost_elixir": 0},
+        {"hp": 750, "production_mult": 4, "cost_gold": 1500, "cost_elixir": 0},
+        {"hp": 900, "production_mult": 5, "cost_gold": 3000, "cost_elixir": 0}
+      ]
+    },
+    "elixir_mine": {
+      "name": "Mine d'élixir",
+      "resource": "elixir",
+      "base_production": 50,
+      "levels": [
+        {"hp": 400, "production_mult": 1, "cost_gold": 0,    "cost_elixir": 0},
+        {"hp": 500, "production_mult": 2, "cost_gold": 0,    "cost_elixir": 300},
+        {"hp": 600, "production_mult": 3, "cost_gold": 0,    "cost_elixir": 700},
+        {"hp": 750, "production_mult": 4, "cost_gold": 0,    "cost_elixir": 1500},
+        {"hp": 900, "production_mult": 5, "cost_gold": 0,    "cost_elixir": 3000}
+      ]
+    },
+    "wall": {
+      "name": "Remparts",
+      "resource": "gold",
+      "levels": [
+        {"hp": 1000, "resistance": 1, "cost_gold": 0,    "cost_elixir": 0},
+        {"hp": 1800, "resistance": 2, "cost_gold": 400,  "cost_elixir": 100},
+        {"hp": 3000, "resistance": 3, "cost_gold": 900,  "cost_elixir": 300},
+        {"hp": 4500, "resistance": 4, "cost_gold": 2000, "cost_elixir": 600},
+        {"hp": 6500, "resistance": 5, "cost_gold": 4000, "cost_elixir": 1200}
+      ]
+    },
+    "barracks": {
+      "name": "Caserne",
+      "resource": "elixir",
+      "levels": [
+        {"hp": 500, "unlock": ["soldier"],                          "cost_gold": 0,    "cost_elixir": 0},
+        {"hp": 600, "unlock": ["soldier", "archer"],                "cost_gold": 200,  "cost_elixir": 300},
+        {"hp": 700, "unlock": ["soldier", "archer", "grenadier"],   "cost_gold": 500,  "cost_elixir": 800},
+        {"hp": 800, "unlock": ["soldier", "archer", "grenadier", "cannon_cart"], "cost_gold": 1000, "cost_elixir": 1500},
+        {"hp": 1000,"unlock": ["soldier", "archer", "grenadier", "cannon_cart"], "cost_gold": 2000, "cost_elixir": 3000}
+      ]
+    }
+  },
+
+  "defenses": {
+    "cannon": {
+      "name": "Canon",
+      "levels": [
+        {"hp": 600,  "damage": 40,  "range": 4, "attack_speed": 1.5, "cost_gold": 0,    "cost_elixir": 0},
+        {"hp": 800,  "damage": 65,  "range": 5, "attack_speed": 1.4, "cost_gold": 500,  "cost_elixir": 0},
+        {"hp": 1000, "damage": 95,  "range": 5, "attack_speed": 1.3, "cost_gold": 1100, "cost_elixir": 0},
+        {"hp": 1300, "damage": 130, "range": 6, "attack_speed": 1.2, "cost_gold": 2200, "cost_elixir": 0},
+        {"hp": 1700, "damage": 175, "range": 6, "attack_speed": 1.0, "cost_gold": 4000, "cost_elixir": 0}
+      ]
+    },
+    "archer_tower": {
+      "name": "Tour d'archers",
+      "levels": [
+        {"hp": 500,  "damage": 25,  "range": 6, "attack_speed": 1.0, "cost_gold": 0,    "cost_elixir": 200},
+        {"hp": 650,  "damage": 40,  "range": 7, "attack_speed": 0.9, "cost_gold": 400,  "cost_elixir": 400},
+        {"hp": 850,  "damage": 60,  "range": 7, "attack_speed": 0.8, "cost_gold": 900,  "cost_elixir": 800},
+        {"hp": 1100, "damage": 85,  "range": 8, "attack_speed": 0.7, "cost_gold": 1800, "cost_elixir": 1500},
+        {"hp": 1500, "damage": 120, "range": 8, "attack_speed": 0.6, "cost_gold": 3500, "cost_elixir": 2500}
+      ]
+    },
+    "mortar": {
+      "name": "Mortier",
+      "levels": [
+        {"hp": 700,  "damage": 80,  "range": 7, "attack_speed": 4.0, "splash": 1.5, "cost_gold": 500,  "cost_elixir": 500},
+        {"hp": 900,  "damage": 120, "range": 8, "attack_speed": 3.5, "splash": 1.8, "cost_gold": 1200, "cost_elixir": 1000},
+        {"hp": 1100, "damage": 170, "range": 9, "attack_speed": 3.0, "splash": 2.0, "cost_gold": 2500, "cost_elixir": 2000},
+        {"hp": 1400, "damage": 230, "range": 9, "attack_speed": 2.5, "splash": 2.2, "cost_gold": 4500, "cost_elixir": 3500},
+        {"hp": 1800, "damage": 300, "range":10, "attack_speed": 2.0, "splash": 2.5, "cost_gold": 8000, "cost_elixir": 6000}
+      ]
+    }
+  },
+
+  "troops": {
+    "soldier": {
+      "name": "Soldat",
+      "theme": "Infanterie napoléonienne",
+      "levels": [
+        {"hp": 150, "damage": 30, "speed": 2.0, "range": 1, "training_cost_elixir": 20},
+        {"hp": 220, "damage": 45, "speed": 2.1, "range": 1, "training_cost_elixir": 40},
+        {"hp": 310, "damage": 65, "speed": 2.2, "range": 1, "training_cost_elixir": 70},
+        {"hp": 420, "damage": 90, "speed": 2.3, "range": 1, "training_cost_elixir": 110},
+        {"hp": 560, "damage": 120,"speed": 2.5, "range": 1, "training_cost_elixir": 160}
+      ]
+    },
+    "archer": {
+      "name": "Archer / Fusilier",
+      "theme": "Tirailleur napoléonien",
+      "levels": [
+        {"hp": 80,  "damage": 25, "speed": 2.2, "range": 4, "training_cost_elixir": 15},
+        {"hp": 115, "damage": 38, "speed": 2.3, "range": 4, "training_cost_elixir": 30},
+        {"hp": 160, "damage": 55, "speed": 2.4, "range": 5, "training_cost_elixir": 55},
+        {"hp": 220, "damage": 75, "speed": 2.5, "range": 5, "training_cost_elixir": 85},
+        {"hp": 295, "damage": 100,"speed": 2.6, "range": 6, "training_cost_elixir": 125}
+      ]
+    },
+    "grenadier": {
+      "name": "Grenadier",
+      "theme": "Grenadier à pied",
+      "levels": [
+        {"hp": 200, "damage": 50,  "speed": 1.8, "range": 3, "splash": 1.0, "training_cost_elixir": 50},
+        {"hp": 290, "damage": 75,  "speed": 1.9, "range": 3, "splash": 1.2, "training_cost_elixir": 90},
+        {"hp": 400, "damage": 105, "speed": 2.0, "range": 3, "splash": 1.4, "training_cost_elixir": 140},
+        {"hp": 540, "damage": 140, "speed": 2.1, "range": 4, "splash": 1.6, "training_cost_elixir": 200},
+        {"hp": 700, "damage": 180, "speed": 2.2, "range": 4, "splash": 1.8, "training_cost_elixir": 270}
+      ]
+    },
+    "cannon_cart": {
+      "name": "Canon roulant",
+      "theme": "Artillerie de campagne",
+      "levels": [
+        {"hp": 120, "damage": 100, "speed": 1.5, "range": 6, "training_cost_elixir": 80},
+        {"hp": 180, "damage": 145, "speed": 1.6, "range": 7, "training_cost_elixir": 140},
+        {"hp": 250, "damage": 200, "speed": 1.7, "range": 7, "training_cost_elixir": 220},
+        {"hp": 340, "damage": 265, "speed": 1.8, "range": 8, "training_cost_elixir": 320},
+        {"hp": 450, "damage": 340, "speed": 1.9, "range": 8, "training_cost_elixir": 440}
+      ]
+    }
+  }
+}

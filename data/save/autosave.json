@@ -1,0 +1,1287 @@
+{
+  "meta": {
+    "slot": "autosave",
+    "saved_at": "2026-06-25T23:58:20",
+    "current_day": 1
+  },
+  "teams": [
+    {
+      "empire_key": "rouge",
+      "village": {
+        "empire_key": "rouge",
+        "resources": {
+          "gold": 500,
+          "elixir": 500
+        },
+        "buildings": [
+          {
+            "building_id": "headquarters",
+            "col": 10,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "gold_mine",
+            "col": 6,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "gold"
+          },
+          {
+            "building_id": "elixir_mine",
+            "col": 14,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "elixir"
+          },
+          {
+            "building_id": "barracks",
+            "col": 6,
+            "row": 9,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          }
+        ],
+        "defenses": [
+          {
+            "building_id": "cannon",
+            "col": 8,
+            "row": 7,
+            "level": 1,
+            "current_hp": 600
+          },
+          {
+            "building_id": "archer_tower",
+            "col": 12,
+            "row": 7,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "mortar",
+            "col": 10,
+            "row": 9,
+            "level": 1,
+            "current_hp": 700
+          }
+        ],
+        "troop_types": {
+          "soldier": {
+            "troop_id": "soldier",
+            "level": 1
+          }
+        },
+        "army": {},
+        "attack_history": []
+      }
+    },
+    {
+      "empire_key": "vert",
+      "village": {
+        "empire_key": "vert",
+        "resources": {
+          "gold": 500,
+          "elixir": 500
+        },
+        "buildings": [
+          {
+            "building_id": "headquarters",
+            "col": 10,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "gold_mine",
+            "col": 6,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "gold"
+          },
+          {
+            "building_id": "elixir_mine",
+            "col": 14,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "elixir"
+          },
+          {
+            "building_id": "barracks",
+            "col": 6,
+            "row": 9,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          }
+        ],
+        "defenses": [
+          {
+            "building_id": "cannon",
+            "col": 8,
+            "row": 7,
+            "level": 1,
+            "current_hp": 600
+          },
+          {
+            "building_id": "archer_tower",
+            "col": 12,
+            "row": 7,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "mortar",
+            "col": 10,
+            "row": 9,
+            "level": 1,
+            "current_hp": 700
+          }
+        ],
+        "troop_types": {
+          "soldier": {
+            "troop_id": "soldier",
+            "level": 1
+          }
+        },
+        "army": {},
+        "attack_history": []
+      }
+    },
+    {
+      "empire_key": "bleu",
+      "village": {
+        "empire_key": "bleu",
+        "resources": {
+          "gold": 500,
+          "elixir": 500
+        },
+        "buildings": [
+          {
+            "building_id": "headquarters",
+            "col": 10,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "gold_mine",
+            "col": 6,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "gold"
+          },
+          {
+            "building_id": "elixir_mine",
+            "col": 14,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "elixir"
+          },
+          {
+            "building_id": "barracks",
+            "col": 6,
+            "row": 9,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          }
+        ],
+        "defenses": [
+          {
+            "building_id": "cannon",
+            "col": 8,
+            "row": 7,
+            "level": 1,
+            "current_hp": 600
+          },
+          {
+            "building_id": "archer_tower",
+            "col": 12,
+            "row": 7,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "mortar",
+            "col": 10,
+            "row": 9,
+            "level": 1,
+            "current_hp": 700
+          }
+        ],
+        "troop_types": {
+          "soldier": {
+            "troop_id": "soldier",
+            "level": 1
+          }
+        },
+        "army": {},
+        "attack_history": []
+      }
+    },
+    {
+      "empire_key": "jaune",
+      "village": {
+        "empire_key": "jaune",
+        "resources": {
+          "gold": 500,
+          "elixir": 500
+        },
+        "buildings": [
+          {
+            "building_id": "headquarters",
+            "col": 10,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "gold_mine",
+            "col": 6,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "gold"
+          },
+          {
+            "building_id": "elixir_mine",
+            "col": 14,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "elixir"
+          },
+          {
+            "building_id": "barracks",
+            "col": 6,
+            "row": 9,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          }
+        ],
+        "defenses": [
+          {
+            "building_id": "cannon",
+            "col": 8,
+            "row": 7,
+            "level": 1,
+            "current_hp": 600
+          },
+          {
+            "building_id": "archer_tower",
+            "col": 12,
+            "row": 7,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "mortar",
+            "col": 10,
+            "row": 9,
+            "level": 1,
+            "current_hp": 700
+          }
+        ],
+        "troop_types": {
+          "soldier": {
+            "troop_id": "soldier",
+            "level": 1
+          }
+        },
+        "army": {},
+        "attack_history": []
+      }
+    },
+    {
+      "empire_key": "gris",
+      "village": {
+        "empire_key": "gris",
+        "resources": {
+          "gold": 500,
+          "elixir": 500
+        },
+        "buildings": [
+          {
+            "building_id": "headquarters",
+            "col": 10,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "gold_mine",
+            "col": 6,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "gold"
+          },
+          {
+            "building_id": "elixir_mine",
+            "col": 14,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "elixir"
+          },
+          {
+            "building_id": "barracks",
+            "col": 6,
+            "row": 9,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          }
+        ],
+        "defenses": [
+          {
+            "building_id": "cannon",
+            "col": 8,
+            "row": 7,
+            "level": 1,
+            "current_hp": 600
+          },
+          {
+            "building_id": "archer_tower",
+            "col": 12,
+            "row": 7,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "mortar",
+            "col": 10,
+            "row": 9,
+            "level": 1,
+            "current_hp": 700
+          }
+        ],
+        "troop_types": {
+          "soldier": {
+            "troop_id": "soldier",
+            "level": 1
+          }
+        },
+        "army": {},
+        "attack_history": []
+      }
+    },
+    {
+      "empire_key": "noir",
+      "village": {
+        "empire_key": "noir",
+        "resources": {
+          "gold": 500,
+          "elixir": 500
+        },
+        "buildings": [
+          {
+            "building_id": "headquarters",
+            "col": 10,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "gold_mine",
+            "col": 6,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "gold"
+          },
+          {
+            "building_id": "elixir_mine",
+            "col": 14,
+            "row": 5,
+            "level": 1,
+            "current_hp": 400,
+            "resource": "elixir"
+          },
+          {
+            "building_id": "barracks",
+            "col": 6,
+            "row": 9,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 3,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 4,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 6,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 8,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 10,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 12,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 14,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 16,
+            "row": 11,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 3,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 5,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 7,
+            "level": 1,
+            "current_hp": 1000
+          },
+          {
+            "building_id": "wall",
+            "col": 15,
+            "row": 9,
+            "level": 1,
+            "current_hp": 1000
+          }
+        ],
+        "defenses": [
+          {
+            "building_id": "cannon",
+            "col": 8,
+            "row": 7,
+            "level": 1,
+            "current_hp": 600
+          },
+          {
+            "building_id": "archer_tower",
+            "col": 12,
+            "row": 7,
+            "level": 1,
+            "current_hp": 500
+          },
+          {
+            "building_id": "mortar",
+            "col": 10,
+            "row": 9,
+            "level": 1,
+            "current_hp": 700
+          }
+        ],
+        "troop_types": {
+          "soldier": {
+            "troop_id": "soldier",
+            "level": 1
+          }
+        },
+        "army": {},
+        "attack_history": []
+      }
+    }
+  ]
+}
